@@ -3,4 +3,4 @@ Simple and starter implementation of hierarchy analysis method from Decision the
 Currently reads data from well-prepared csv files.
 
 ## Example of execution:
-![alt text](https://ibb.co/cNMPVx)
+![](Screenshot.png)
